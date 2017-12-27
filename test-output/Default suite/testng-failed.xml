@@ -5,9 +5,9 @@
     <classes>
       <class name="TestClasses.TestCases">
         <methods>
-          <include name="loginWithInCorrectCredential"/>
           <include name="setDriver"/>
           <include name="quitBrowser"/>
+          <include name="printGeneralIformation"/>
         </methods>
       </class> <!-- TestClasses.TestCases -->
     </classes>
